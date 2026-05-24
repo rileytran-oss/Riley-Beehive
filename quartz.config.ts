@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import remarkBreaks from "remark-breaks"
 
 /**
  * Quartz 4 Configuration
@@ -8,49 +9,49 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Riley's Beehive",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "vi-VN",
+    baseUrl: "localhost:8080",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
-      },
+  header: "Playfair Display",
+  body: "Source Serif 4",
+  code: "IBM Plex Mono",
+},
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+  lightMode: {
+    light: "#f5f0e8",
+    lightgray: "#e8e0d0",
+    gray: "#b8a898",
+    darkgray: "#5c4a3a",
+    dark: "#3d2b1f",
+    secondary: "#7a9e9f",
+    tertiary: "#c17b6f",
+    highlight: "rgba(122, 158, 159, 0.12)",
+    textHighlight: "#f0d9b5",
+  },
+  darkMode: {
+    light: "#1e1a16",
+    lightgray: "#2e2820",
+    gray: "#6b5d52",
+    darkgray: "#c9b8a8",
+    dark: "#f0e6d6",
+    secondary: "#7a9e9f",
+    tertiary: "#c17b6f",
+    highlight: "rgba(122, 158, 159, 0.12)",
+    textHighlight: "#b3722088",
+  },
+},
     },
   },
   plugins: {
@@ -66,7 +67,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, remarkPlugins: [remarkBreaks] }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
