@@ -21,7 +21,7 @@ Helpful techniques and activities for parents and teachers to help young learner
 Liên hệ: NXB Trẻ
 
 #### Thay đổi tí hon - Hiệu quả bất ngờ
-![[Bìa - Thay_doi_ti_hon_Hieu_qua_bat_ngo.jpg| 200]]
+![[Bia - Thay_doi_ti_hon_Hieu_qua_bat_ngo.jpg| 200]]
 **Atomic Habits - An Easy & Proven Way to Build Good Habits & Break Bad Ones** | _James Clear_ 
 Dịch giả: Vu Phi Yen & Tran Quynh Nhu 
 Reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits
@@ -33,7 +33,7 @@ Liên hệ: Phương Nam Book
 
 
 #### Lập trình hạnh phúc
-![[Bìa Lap-trinh-hanh-phuc_Hardwiring-Happiness.jpg|200]]
+![[Bia Lap-trinh-hanh-phuc_Hardwiring-Happiness.jpg|200]]
 **Hardwiring Happiness - The New Brain Science of Contentment, Calm, and Confidence** | _Rick Hanson_ 
 Dịch giả: Tran Quynh Nhu & Audax Group 
 Four steps (HEAL) to counterbalance your brain's negativity bias and learn to hardwire happiness. 

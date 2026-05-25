@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bước 2 - Đặt một số thiết lập cơ bản
 source: '[[Start Here - WHY Obsidian and HOW]]'
 tags:
