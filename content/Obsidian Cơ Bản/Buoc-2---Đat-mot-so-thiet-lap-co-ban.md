@@ -1,3 +1,11 @@
+﻿---
+title: Bước 2 - Đặt một số thiết lập cơ bản
+source: '[[Start Here - WHY Obsidian and HOW]]'
+tags:
+  - Obsidian
+  - manual
+---
+
 Up: [[Obsidian Phần 1]]
 --- ---
 1. spell check (if need be)
@@ -22,3 +30,4 @@ Tham khảo thêm:
 - [Denise Todd - Obsidian Editor Settings for Beginners](https://denisetodd.medium.com/obsidian-editor-settings-for-beginners-b84610ea6ce3)
 - [LYT Nick Milo - Obsidian for Beginners: Start HERE](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
 - [FromSergio - Mastering Obsidian](https://www.youtube.com/playlist?list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx)
+

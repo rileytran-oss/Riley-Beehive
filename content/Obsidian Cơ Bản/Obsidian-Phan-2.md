@@ -1,3 +1,11 @@
+﻿---
+title: Obsidian Phần 2
+source: '[[Start Here - WHY Obsidian and HOW]]'
+tags:
+  - Obsidian
+  - manual
+---
+
 up: [[Obsidian Manuals]]
 
 (đang cập nhật)
@@ -62,3 +70,4 @@ Daily step
 
 Mọi người xem thêm ở mini series này:
 https://www.youtube.com/watch?v=i-hIfY-Ecjg&list=PL6mqgtMZ4NP3MQGVzQaemEx7YTgmJ9lNv&index=12
+

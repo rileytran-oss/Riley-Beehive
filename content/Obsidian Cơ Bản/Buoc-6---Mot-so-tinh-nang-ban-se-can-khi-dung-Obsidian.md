@@ -1,3 +1,11 @@
+﻿---
+title: Bước 6 - Một số tính năng bạn sẽ cần khi dùng Obsidian
+source: '[[Start Here - WHY Obsidian and HOW]]'
+tags:
+  - Obsidian
+  - manual
+---
+
 Up: [[Obsidian Phần 1]]
 --- ---
 ##### Stacked tabs
@@ -26,3 +34,4 @@ Mọi người xem 5 thao tác thường dùng trong hình nhé:
 - **Show in system Explorer**: tìm trang đang làm việc trong hệ thống
 - **Open linked view**: trong đây mình sẽ xem được backlinks (tức những trang có dẫn link đến trang này), local graph (bản đồ cho riêng trang này, đang link đến đâu và trang nào đang link đến đây), outline của bài viết.
 ![[Obsidiansetting_4views.png|500]]
+

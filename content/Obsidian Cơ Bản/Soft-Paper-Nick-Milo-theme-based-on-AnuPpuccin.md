@@ -1,8 +1,7 @@
 ---
 tags:
-  - study
-  - learn
-date: <%tp.date.now("YYYY-MMM-DD")%>
+  - obsidian
+  - theme
 ---
 --- ---
 # Capture

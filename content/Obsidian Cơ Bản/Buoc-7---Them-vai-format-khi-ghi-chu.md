@@ -1,3 +1,11 @@
+﻿---
+title: Bước 7 - Thêm vài format khi ghi chú
+source: '[[Start Here - WHY Obsidian and HOW]]'
+tags:
+  - Obsidian
+  - manual
+---
+
 Up: [[Obsidian Phần 1]]
 --- ---
 Với mình thì màu mè hơn chút giúp note của mình dễ nhìn hơn, nên là mình hay *làm màu*. `^__^`
@@ -91,3 +99,4 @@ Dùng `> [!...]` với nhiều icon khác nhau:
 Xem thêm ở đây:
 [Obsidian Callouts](https://www.youtube.com/watch?v=TqYQ0kA1yAo)
 All types of Callouts [Callouts - Obsidian Help](https://help.obsidian.md/callouts)
+

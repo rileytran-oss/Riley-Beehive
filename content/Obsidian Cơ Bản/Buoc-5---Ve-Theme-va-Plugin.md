@@ -15,7 +15,7 @@ Ai thích tối giản có thể chọn theme Minimal (chỉ đổi đậm nhạ
 
 ###### 2026-02-24  | Một theme mới rất đẹp, dịu mắt
 Để ra được theme này thì hơi phức tạp hơn xíu, xem kỹ hướng dẫn tại bài sau:
-[[Soft Paper Nick Milo's theme based on AnuPpuccin]]
+[[Soft Paper Nick Milo theme based on AnuPpuccin]]
 #### Plugin:
 Hình dung Obsidian như một bộ khung, một holding space cho các tính năng đặc sắc được tích hợp vào. Vào Settings >> ta thấy có 2 loại plugin: **core** và **community**. Core plugin là những plugin đã được tích hợp sẵn khi mới cài Ob. Community là những plugin được đóng góp bởi cộng đồng dev dùng Ob. Có những công cụ rất mạnh, xoay xung quanh chuyện *take note*, *make note* và *visualise notes*.
 

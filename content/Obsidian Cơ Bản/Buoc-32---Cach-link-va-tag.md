@@ -1,3 +1,11 @@
+﻿---
+title: Bước 3.2 - Cách link và tag
+source: '[[Start Here - WHY Obsidian and HOW]]'
+tags:
+  - Obsidian
+  - manual
+---
+
 Up: [[Obsidian Phần 1]]
 --- ---
 Rồi, để link note này với note kia, chỉ cần gõ 2 ngoặc vuông.
@@ -16,4 +24,5 @@ Bạn bắt đầu ghi chú đi, sau một tuần đều đặn, có khoảng >2
 	- Công thức: `[[note#header]]`, `[[note^block]]`
 2. *external link*: dẫn tới một link trang web ngoài. Gõ 1 ngoặc vuông`[]`cho tên của dòng chữ, và chèn hyperlink vào giữa `()`. Công thức: `[x](y)`. x là title của đường link bạn muốn dẫn, y là hyperlink.
 	- Ví dụ, bạn muốn chèn 1 link YT cho dòng chữ Mastering Obsidian. Bạn sẽ gõ `[Mastering Obsidian](link)`
+
 

@@ -1,3 +1,11 @@
+﻿---
+title: Bước 4 - Markdown Format cơ bản cho Obsidian
+source: '[[Start Here - WHY Obsidian and HOW]]'
+tags:
+  - Obsidian
+  - manual
+---
+
 Up:: [[Obsidian Phần 1]]
 --- ---
 Rồi hen, mình học một số format cơ bản để ghi chú cho dễ nhìn. Mình hình dung thế này: cách format thì như nhau không đổi, còn text hiển thị như thế nào là do *theme* mình chọn. Bài sau N sẽ nói về cách chọn theme hợp mắt mình.
@@ -35,3 +43,4 @@ Minh họa Sáu cấp heading - dùng để test theme.
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+

@@ -1,7 +1,6 @@
 ---
 date: 2023-Apr-09
-status: composing
-tags: 
+tags:
 ---
 --- ---
 ### Capture
