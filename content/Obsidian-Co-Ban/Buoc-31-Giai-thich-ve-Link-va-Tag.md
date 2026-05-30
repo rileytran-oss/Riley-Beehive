@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bước 3.1 - Giải thích về Link và Tag
 source: '[[Start Here - WHY Obsidian and HOW]]'
 tags:

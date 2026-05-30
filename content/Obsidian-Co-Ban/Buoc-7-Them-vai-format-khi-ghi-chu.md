@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bước 7 - Thêm vài format khi ghi chú
 source: '[[Start Here - WHY Obsidian and HOW]]'
 tags:

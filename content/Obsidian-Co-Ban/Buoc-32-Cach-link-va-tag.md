@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bước 3.2 - Cách link và tag
 source: '[[Start Here - WHY Obsidian and HOW]]'
 tags:

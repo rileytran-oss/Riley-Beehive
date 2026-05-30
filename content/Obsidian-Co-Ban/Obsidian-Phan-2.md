@@ -1,4 +1,4 @@
-﻿---
+---
 title: Obsidian Phần 2
 source: '[[Start Here - WHY Obsidian and HOW]]'
 tags:
@@ -45,6 +45,14 @@ Link YouTube và Twitter có thể được nhúng vào note trong Obsidian bằ
 - ví dụ
 ![](https://www.youtube.com/watch?v=MTdbhePtCco)
 
+
+### Nhúng link web, artifact
+
+Formula iframe:
+
+```
+<iframe src="tên trang web đuôi .html" width="100%" height="600px"></iframe>
+```
 
 ### Mở PDF trong Obsidian
 - [New PDF viewer](app://obsidian.md/index.html#new-pdf-viewer) — We've completely overhauled the PDF viewer in Obsidian to feel more integrated within the app.

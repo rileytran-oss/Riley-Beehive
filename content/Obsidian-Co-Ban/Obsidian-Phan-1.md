@@ -1,4 +1,5 @@
 ---
+title: Obsidian Phần 1
 tags:
   - obsidian
   - manuals
